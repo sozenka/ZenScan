@@ -1,0 +1,9 @@
+__pycache__/
+targets_found.txt
+targets/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
