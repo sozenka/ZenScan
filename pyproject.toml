@@ -36,9 +36,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/zenscan"
-Repository = "https://github.com/yourusername/zenscan.git"
-Issues = "https://github.com/yourusername/zenscan/issues"
+Homepage = "https://github.com/sozenka/ZenScan"
+Repository = "https://github.com/sozenka/ZenScan.git"
+Issues = "https://github.com/sozenka/ZenScan/issues"
 
 [tool.setuptools]
 packages = ["src"]
